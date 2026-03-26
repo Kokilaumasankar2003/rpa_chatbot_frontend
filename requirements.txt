@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+beautifulsoup4
+gradio
+anthropic
+pydantic
+requests
+huggingface_hub
